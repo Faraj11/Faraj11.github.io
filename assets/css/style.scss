@@ -1,0 +1,18 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Add spacing between top-level list items */
+li {
+  margin-bottom: 0.75em;   /* space between top-level bullets */
+}
+
+/* Nested bullets */
+ul ul {
+  margin-left: 1.5em;      /* indent nested bullets */
+}
+
+ul ul li {
+  margin-bottom: 0.5em;    /* space between nested bullets */
+}

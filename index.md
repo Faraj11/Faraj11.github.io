@@ -28,7 +28,7 @@ I’m an aspiring data professional with a deep passion for cloud technologies, 
 
 - Programming Languages: Python (Intermediate), SQL (Beginner), and R (Beginner)
 - Databases: PostgreSQL, SQLite, Google BigQuery
-- Data Science & Machine Learning: Pandas, Scikit-Learn, Jupyter Notebook, Kaggle, Seaborn, Matplotlib, Anaconda, Tableau
+- Data Science & ML: Pandas, Scikit-Learn, Jupyter, Kaggle, Seaborn, Matplotlib, Anaconda, Tableau
 - Other Tools: GitHub, Visual Studio Code, APIs, Power BI, UAT, Regression Testing, and Azure DevOps
 - Certificates: Google Data Analytics Certificate
   

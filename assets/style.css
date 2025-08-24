@@ -1,8 +1,0 @@
-/* Add spacing between list items */
-li {
-  margin-bottom: 0.75em;   /* space between top-level bullets */
-}
-
-ul ul li {
-  margin-bottom: 0.5em;    /* slightly tighter for nested bullets */
-}

@@ -84,7 +84,7 @@ I’m an aspiring data professional with a deep passion for cloud technologies, 
 
 - Google — Grow with Google Data Analytics Scholar (February-June 2025)
   - Chosen as 1 of 500 recipients (from a 6,000+ applicant pool) for a scholarship to complete the Google Data Analytics Certificate at no cost.
-  - Participating in weekly sessions that offered career development workshops, networking events, and peer discussions, to enhance and develop technical + soft skills required for data analytics careers.
+  - Participated in weekly sessions that offered career development workshops, networking events, and peer discussions, to enhance and develop technical + soft skills required for data analytics careers.
 
 - Baruch Technology Leadership Development Program — Technology Leader (September 2024-May 2025)
   - Selected as one of thirty-five students for a year-long mentorship program focused on developing both soft and hard skills, with guidance from industry experts at AWS, Google, and Accenture.

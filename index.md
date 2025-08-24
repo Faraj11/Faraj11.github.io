@@ -99,14 +99,14 @@ I’m an aspiring data professional with a deep passion for cloud technologies, 
 Below is an embedded view. If it doesn’t load, use the direct link.
 
 <iframe
-  src="https://storage.googleapis.com/simplify-resumes/84b595fb-5035-4417-ab3f-4d9c67c30120/8cd11811-2946-40d6-8588-f8545cfa401c/1754388862.pdf?Expires=1756133466&GoogleAccessId=gcs-signing-service-account%40mifflin-backend.iam.gserviceaccount.com&Signature=t25AgbP9Y2%2FehRQjtKUQv6eqc4Xs4CD6MRvWa5V0ntHcBX2AphwKoqg7mDDI4ds0w6woN%2FYRAydaEOOCDgq09%2F0B9X4bAZn00%2BDnwLzTv1IrZSguhb4HDz6m9jD%2FiUCd7FOTPlGOwoHmM54T6m3G0MvmEYOOPLmfXxui2ADBFh9g1uJV9DP9Iep3v5%2BuvsQLCVZql2yJIeBBIbaZQEegjNLGpVF0OMgs%2BqUHNE6b4sU2%2FBELRLoLEzcIGatyJbJHfnuIbjMrUqpftYF8%2FlER0Xq6Hw0ReIGKnIJ6wqts7n%2FgBs%2Bu5Rv93YFYVASyku14%2B9%2BV7CaQ0Wf5VPIxlNFr%2Bw%3D%3D"
+  src="https://storage.googleapis.com/simplify-resumes/84b595fb-5035-4417-ab3f-4d9c67c30120/201965a3-7247-4924-8e9e-079d84e97913/1756074915.pdf?Expires=1756679823&GoogleAccessId=gcs-signing-service-account%40mifflin-backend.iam.gserviceaccount.com&Signature=Eht7lGNmr5XaOcUjZ20R0kMliTHdzLTRoquIVPmSWK5QeWOI%2BniDsultFxWcJDAwoNYBud5pJg0xtB4SRoxOhbrZvXCQXIJL8XFFJlYqJOGh5QP08osoaKs8QuQCjpj0%2BYpQcC0%2BUpwUbMFKGdwgbQTN8aNgEMfG6Uf2Isvi%2F18RgHq%2FV0Fc%2FG%2FQo%2FNNO%2FMjay6RAFX9Qp%2BsNBsOhE%2Ffxdz0%2FY7mlwJwGClJ7q6OPflb2FEGSRao7Wv6NE7Z9xGlGd9dODzMzvi%2BbF3uYgpyZ17MqNT%2BbYcaS0V3a6eZpTH%2BfPvzHWrAmheWmXy3rz477IrOQzEwIEFQ0H%2F23oN45A%3D%3D"
   width="100%"
   height="880"
   style="border:1px solid #e5e7eb;border-radius:10px;"
   loading="lazy"
 ></iframe>
 
-[Open With Direct Link](https://storage.googleapis.com/simplify-resumes/84b595fb-5035-4417-ab3f-4d9c67c30120/8cd11811-2946-40d6-8588-f8545cfa401c/1754388862.pdf?Expires=1756133466&GoogleAccessId=gcs-signing-service-account%40mifflin-backend.iam.gserviceaccount.com&Signature=t25AgbP9Y2%2FehRQjtKUQv6eqc4Xs4CD6MRvWa5V0ntHcBX2AphwKoqg7mDDI4ds0w6woN%2FYRAydaEOOCDgq09%2F0B9X4bAZn00%2BDnwLzTv1IrZSguhb4HDz6m9jD%2FiUCd7FOTPlGOwoHmM54T6m3G0MvmEYOOPLmfXxui2ADBFh9g1uJV9DP9Iep3v5%2BuvsQLCVZql2yJIeBBIbaZQEegjNLGpVF0OMgs%2BqUHNE6b4sU2%2FBELRLoLEzcIGatyJbJHfnuIbjMrUqpftYF8%2FlER0Xq6Hw0ReIGKnIJ6wqts7n%2FgBs%2Bu5Rv93YFYVASyku14%2B9%2BV7CaQ0Wf5VPIxlNFr%2Bw%3D%3D)
+[Open With Direct Link](https://storage.googleapis.com/simplify-resumes/84b595fb-5035-4417-ab3f-4d9c67c30120/201965a3-7247-4924-8e9e-079d84e97913/1756074915.pdf?Expires=1756679823&GoogleAccessId=gcs-signing-service-account%40mifflin-backend.iam.gserviceaccount.com&Signature=Eht7lGNmr5XaOcUjZ20R0kMliTHdzLTRoquIVPmSWK5QeWOI%2BniDsultFxWcJDAwoNYBud5pJg0xtB4SRoxOhbrZvXCQXIJL8XFFJlYqJOGh5QP08osoaKs8QuQCjpj0%2BYpQcC0%2BUpwUbMFKGdwgbQTN8aNgEMfG6Uf2Isvi%2F18RgHq%2FV0Fc%2FG%2FQo%2FNNO%2FMjay6RAFX9Qp%2BsNBsOhE%2Ffxdz0%2FY7mlwJwGClJ7q6OPflb2FEGSRao7Wv6NE7Z9xGlGd9dODzMzvi%2BbF3uYgpyZ17MqNT%2BbYcaS0V3a6eZpTH%2BfPvzHWrAmheWmXy3rz477IrOQzEwIEFQ0H%2F23oN45A%3D%3D)
 
 ---
 

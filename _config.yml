@@ -2,8 +2,5 @@ remote_theme: pages-themes/hacker@v0.2.0
 plugins:
 - jekyll-remote-theme
 
-include:
-  - assets/style.css
-
 title: Faraj Arvid's Portfolio
 description: Welcome to my website! Feel free to learn more about me and connect.

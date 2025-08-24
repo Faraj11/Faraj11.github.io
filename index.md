@@ -11,7 +11,7 @@ Quick Links:
 - [Education](#education)
 - [Extracurriculars & Professional Development](#extracurriculars--professional-development)
 - [Resume](#resume)
-- [Contact](#contact)
+- [Contact](#contact--me)
 
 ---
 

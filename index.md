@@ -36,6 +36,8 @@ I’m an aspiring data professional with a deep passion for cloud technologies, 
 
 ## Projects
 
+### [GitHub Profile](https://github.com/Faraj11)
+
 - [Football Performance Analytics:](https://github.com/Faraj11/FinalProject3120) Developed a Python application using OOP and APIs to analyze football performance data and create visualizations that reveal key team and player trends.
 
 ---

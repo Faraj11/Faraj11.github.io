@@ -105,14 +105,14 @@ smooth integration and better user experience for the agency’s 1K+ employees.
 Below is an embedded view. If it doesn’t load, use the direct link.
 
 <iframe
-  src="/assets/Faraj_Arvid_Resume.pdf"
+  src="/assets/Faraj Arvid Resume.pdf"
   width="100%"
   height="880"
   style="border:1px solid #e5e7eb;border-radius:10px;"
   loading="lazy"
 ></iframe>
 
-<a href="/assets/Faraj_Arvid_Resume.pdf" target="_blank" rel="noopener">Open With Direct Link</a>
+<a href="/assets/Faraj Arvid Resume.pdf" target="_blank" rel="noopener">Open With Direct Link</a>
 
 ---
 

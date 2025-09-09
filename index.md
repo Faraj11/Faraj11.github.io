@@ -26,7 +26,7 @@ I’m an aspiring data professional with a deep passion for cloud technologies, 
 
 ## Skills
 
-- Programming Languages: Python (Intermediate), SQL (Beginner), and R (Beginner)
+- Programming Languages: Python, SQL, and R
 - Databases: PostgreSQL, SQLite, Google BigQuery
 - Data Science & ML: Pandas, Scikit-Learn, Jupyter, Kaggle, Seaborn, Matplotlib, Anaconda, Tableau
 - Other Tools: GitHub, Visual Studio Code, APIs, Power BI, UAT, Regression Testing, and Azure DevOps
@@ -38,36 +38,42 @@ I’m an aspiring data professional with a deep passion for cloud technologies, 
 
 ### [GitHub Profile](https://github.com/Faraj11)
 
-- [Football Performance Analytics:](https://github.com/Faraj11/FinalProject3120) Developed a Python application using OOP and APIs to analyze football performance data and create visualizations that reveal key team and player trends.
+- [Zen Agent:](https://github.com/josephHelfenbein/zen-agent) Collaborated in a team of 4 to develop an agentic AI mindfulness tool that processes facial and behavioral data in real time using Python, LangGraph, and WebRTC, leveraging a trained ML model to generate stress-level insights. (Winner of the AI/Machine Learning Track at CTP Hacks 2025)
+- [Football Performance Analytics:](https://github.com/Faraj11/FinalProject3120) Engineered a Python-based application leveraging OOP to fetch, process, and visualize football/soccer data from external APIs, enabling identification of key team + player trends and supporting data-driven decision-making.
 
 ---
 
 ## Experience
 
-- CUNY Asian American/Asian Research Institute — Innovator Fellow (February 2025-Present)
-  - Selected as 1 of 6 fellows to train in emerging technologies, hone leadership skills, gain mentorship, and collaborate with Asian American communities to create innovative tech-based solutions addressing critical needs.
-  - Leading a team of 3 to develop a prototype Tableau dashboard for a centralized healthcare assistance hub providing immigrants language + technological assistance and matching volunteers with patients needing help during medical visits.
+- NBCUniversal — Incoming Data Analyst Intern (Sep 2025-May 2026)
+  
+- CUNY Asian American/Asian Research Institute — Innovator Fellow (Feb-Sep 2025)
+  - Leading a team of 3 to develop a Tableau dashboard for a centralized healthcare assistance hub providing immigrants language + technological assistance and informing patients of clinics located in NYC that speak their language.
     
-- Pfizer — Data Analyst Intern (June-August 2025)
-  - Responsible for designing a dynamic Power BI dashboard analyzing HR data to uncover insights and trends in colleague performance, leadership effectiveness, and evaluation metrics across 80,000+ employees globally.
-  - Executed 100+ test cases for the development of multiple internal generative AI chatbots, validating response accuracy, mitigating bias, and enforcing regulatory compliance through restriction protocols.
-  - Collaborated with the Global PX Solutions team to run approximately 250 tests (UAT, regression, production, checkout, debugging, etc) for 2 web applications, supporting agile development cycles and ensuring software enhancements.
+- Pfizer — Data Analyst Intern (Jun-Aug 2025)
+  - Designed a dynamic Power BI dashboard analyzing HR data to uncover performance and leadership metrics
+across 80K+ employees globally.
+  - Executed 100+ test cases for multiple internal generative AI chatbots, validating response accuracy, mitigating
+bias, and enforcing regulatory compliance through restriction protocols.
+  - Collaborated with the Global PX Solutions team to run approximately 250 tests (UAT, regression, production,
+checkout, debugging, etc) for 2 web applications, supporting agile development cycles and ensuring software
+enhancements.
 
-- MTA — Technology Analyst Intern (January 2025)
-  - Developed a prototype solution to digitize and automate the MTA’s payroll system using Power Automate, SharePoint, and Excel, estimated to reduce manual payroll processing time by 50%.
-  - Designed a Power BI dashboard, merging payroll data into a centralized platform that enhanced trend visualization, improved accessibility, and increased efficiency for 50+ interns & managers.
+- MTA — Technology Analyst Intern (Jan 2025)
+  - Developed a prototype solution to digitize and automate the MTA’s payroll system using Power Automate,
+SharePoint, and Excel, estimated to reduce manual payroll processing time by 50%.
+  - Designed a Power BI dashboard, merging payroll data into a centralized platform that enhanced trend
+visualization, improved accessibility, and increased efficiency for 50+ interns & managers.
 
-- NYC Office of the Chief Medical Examiner — IT Intern (July-August 2024)
-  - Conducted testing on 20 new features added to the agency’s staging site to validate data accuracy, facilitating smooth integration and better user experience for the agency’s 1000+ employees.
-  - Resolved more than 50 IT issues by analyzing support tickets and providing data-driven solutions, demonstrated by a 20% improvement in technology infrastructure performance
+- NYC Office of the Chief Medical Examiner — IT Intern (Jul-Aug 2024)
+  - Conducted testing on 20 new features added to the agency’s staging site to validate data accuracy, facilitating
+smooth integration and better user experience for the agency’s 1K+ employees.
 
-- Mobalytics — Market Research & Analytics Extern (April-May 2024)
+- Mobalytics — Market Research & Analytics Extern (Apr-May 2024)
   - Conducted in-depth market research on 2 mobile games with a combined 600 million users, analyzing player psychology to develop effective marketing strategies that enhance engagement.
-  - Transformed research into a presentation pitch that identified 3 key takeaways from the analyzed games and proposed 3 recommendations to Mobalytics for market expansion opportunities.
 
-- Teach For America — Cybersecurity Intern (July-August 2023)
-  - Updated/published 10 process documentations, including runbooks and Incident Response Plans, ensuring compliance with security standards, and reducing incident response times by 20%.
-  - Independently conducted a companywide phishing drill involving 5000+ employees, leading to a 25% decrease in click rate after implementing employee training shaped by the drills findings.
+- Teach For America — Cybersecurity Intern (Jul-Aug 2023)
+  - Independently conducted a company-wide phishing drill involving 5K+ employees, leading to a 25% decrease in click rate after implementing employee training shaped by the drill's findings.
 
 ---
 
@@ -80,15 +86,15 @@ I’m an aspiring data professional with a deep passion for cloud technologies, 
 
 ## Extracurriculars & Professional Development
 
-- CUNY Tech Prep — Data Science Fellow (July 2025-Present)
+- CUNY Tech Prep — Data Science Fellow (Jul 2025-May 2026)
   - Selected for a year-long data science fellowship for students across the 11 CUNY colleges, to create technical data science and AI projects using Python, Jupyter Notebook, Pandas, Numpy, Scikit-learn, SQL, and more.
   - Participating in weekly classes to learn industry best practices for exploratory data analysis (EDA), feature engineering, data collection and processing, statistical modeling, data visualization, machine learning techniques, data science, and big data.
 
-- Google — Grow with Google Data Analytics Scholar (February-June 2025)
-  - Chosen as 1 of 500 recipients (from a 6,000+ applicant pool) for a scholarship to complete the Google Data Analytics Certificate at no cost.
+- Google x Mentor Me Collective — Grow with Google Data Analytics Scholar (Feb 2025-Jun 2025)
+  - Chosen as a recipient for a scholarship provided by Google and Mentor Me Collective to complete the Google Data Analytics Certificate at no cost.
   - Participated in weekly sessions that offered career development workshops, networking events, and peer discussions, to enhance and develop technical + soft skills required for data analytics careers.
 
-- Baruch Technology Leadership Development Program — Technology Leader (September 2024-May 2025)
+- Baruch Technology Leadership Development Program — Technology Leader (Sep 2024-May 2025)
   - Selected as one of thirty-five students for a year-long mentorship program focused on developing both soft and hard skills, with guidance from industry experts at AWS, Google, and Accenture.
   - Gained firsthand experience in critical data analysis tools and technologies, including Power BI, Big Data, Tableau, SQL, and Python, continuously enhancing technical proficiency and knowledge
 
